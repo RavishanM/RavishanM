@@ -56,6 +56,7 @@ ___
 ---
 
 ## Connect With Me
-- <a href="https://linkedin.com/in/ravishan-munasinghe"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+<a href="https://linkedin.com/in/ravishan-munasinghe"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravishan.karawitage@mail.citytech.cuny.edu)
